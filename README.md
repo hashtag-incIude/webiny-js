@@ -61,6 +61,12 @@ In Webiny - everything is a plugin. And so is the deployment process. You can al
 
 ##Webiny Hacktoberfest 2020
 
+Changing the world one step at a time by contributing to Open Source Software (OSS). We're excited to announce that Webiny will participate in Hacktoberfest this October for the first time!
+
+Hacktoberfest is a month-long celebration of all the open-source software and 2020 will be the 7th year of the event organized by DigitalOcean. It encourages participation in the open-source community, which grows bigger every year.
+
+Complete the 2020 challenge and earn a limited-edition Hacktoberfest T-shirt, and Webiny Hacktoberfest Swag 🚀
+
 visit:- https://dev.to/webiny/webiny-hacktoberfest-2020-49h4
 ## Contributing
 
