@@ -59,6 +59,9 @@ At this time, we provide a custom mechanism to deploy your project to the cloud 
 
 In Webiny - everything is a plugin. And so is the deployment process. You can also deploy Webiny using native CloudFormation if you will, Pulumi, AWS SAM, or any other tool. Guides on those particular tools will come at a later stage, but it IS possible.
 
+##Webiny Hacktoberfest 2020
+
+visit:- https://dev.to/webiny/webiny-hacktoberfest-2020-49h4
 ## Contributing
 
 Please see our [Contributing Guidelines](/docs/CONTRIBUTING.md) which explain repo organization, setup, testing, and other steps.
@@ -349,3 +352,5 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore-end -->
 
 <!-- CONTREEBUTORS:END -->
+
+
